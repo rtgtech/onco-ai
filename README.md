@@ -1,11 +1,9 @@
+# Onco AI
 
-  # Landing Page Design
+A AI powered Cancer detection tool. Upload a MRI image, the tool will convert it to a heat mapped image highlighting critical regions of the scan. It will give details about the Type of cancer/ tumor along with confidence score.
 
-  This is a code bundle for Landing Page Design. The original project is available at https://www.figma.com/design/7cFyE8xlHNbYvFmYgY88kV/Landing-Page-Design.
+This is our hackathon project. Co created with : 
 
-  ## Running the code
+[Muhammed Saqlain A](https://github.com/saqlain-27)
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+[Adharsh Martin P](https://github.com/AdharshMartin)
